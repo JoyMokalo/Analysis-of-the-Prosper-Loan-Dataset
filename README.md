@@ -11,16 +11,16 @@ The Prosper Loan data set gives information on 113,937 loans given by Prosper wi
 
 The main feature of interest in the data set is the Loan Amount and the aim of this analysis is to confirm the factors in the dataset that have an influence on the loan amount.
 From the investigations, the following were deduced:
--There’s a strong correlation between the loan amount and monthly payments such that an increase in one causes an increase in the other
--Loan amounts taken fall between \\$1,000 and \\$20,000 and most of the monthly payments were between \\$250 to \\$1,000
--Employment Status played a role in getting loan grants as majority of loans granted were for individuals with some kind of employment and their home ownership status also influenced the loan grants for them
--California, Florida, New York, Texas were locations where more loans were taken
--Middle income earners (i.e \$25k -\$49.9k and \$50k -\$74.9k) took more loans
--Larger loan amount had longer repayment terms 
--The best Prosper Score of 10 was assigned majorly to loans taken by individuals in the employed and full time categories as they were associated with lower risks
--Recommendations did not have any significant impact on loan amount granted 
--More loans were taken in 2013
--Overall, loan performance is not bad as over 80% of the loan data was for current and completed loans 
+<ol> -There’s a strong correlation between the loan amount and monthly payments such that an increase in one causes an increase in the other </ol>
+<ol>-Loan amounts taken fall between \\$1,000 and \\$20,000 and most of the monthly payments were between \\$250 to \\$1,000 </ol>
+<ol>-Employment Status played a role in getting loan grants as majority of loans granted were for individuals with some kind of employment and their home ownership status also influenced the loan grants for them </ol>
+<ol>-California, Florida, New York, Texas were locations where more loans were taken</ol>
+<ol>-Middle income earners (i.e \$25k -\$49.9k and \$50k -\$74.9k) took more loans</ol>
+<ol>-Larger loan amount had longer repayment terms </ol>
+<ol>-The best Prosper Score of 10 was assigned majorly to loans taken by individuals in the employed and full time categories as they were associated with lower risks</ol>
+<ol>-Recommendations did not have any significant impact on loan amount granted</ol>
+<ol>-More loans were taken in 2013</ol>
+<ol>-Overall, loan performance is not bad as over 80% of the loan data was for current and completed loans</ol>
 
 
 
